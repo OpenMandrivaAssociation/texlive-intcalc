@@ -1,6 +1,6 @@
 Name:		texlive-intcalc
 Version:	53168
-Release:	1
+Release:	2
 Summary:	Expandable arithmetic operations with integers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/intcalc
