@@ -3,7 +3,7 @@ Version:	53168
 Release:	2
 Summary:	Expandable arithmetic operations with integers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/intcalc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/intcalc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/intcalc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/intcalc.doc.r%{version}.tar.xz
